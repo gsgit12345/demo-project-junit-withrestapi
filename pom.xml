@@ -12,6 +12,9 @@
   <groupId>com.example</groupId>
   <artifactId>demo-project-junit-withrestapi</artifactId>
   <packaging>pom</packaging>
+  <modules>
+    <module>demo-project-junit-restapi</module>
+  </modules>
 
   <version>1.0-SNAPSHOT</version>
 
