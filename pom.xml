@@ -14,6 +14,7 @@
   <packaging>pom</packaging>
   <modules>
     <module>demo-project-junit-restapi</module>
+      <module>demo-project-resttest-junit-demo</module>
   </modules>
 
   <version>1.0-SNAPSHOT</version>
